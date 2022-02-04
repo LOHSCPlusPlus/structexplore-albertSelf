@@ -25,4 +25,9 @@ int main() {
 	return 0;
 }
 
+//git add Explore1.cpp
+git commit -m "Explore1 working"
+git push
+
+
 
